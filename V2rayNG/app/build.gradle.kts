@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.v2ray.ang"
+    namespace = "com.example.networktool"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.v2ray.ang"
+        applicationId = "com.example.networktool"
         minSdk = 21
         targetSdk = 35
         versionCode = 683
